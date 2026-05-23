@@ -29,6 +29,7 @@
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Recursion
 |  |
@@ -41,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/StevieAdrian/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
+| [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/StevieAdrian/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
