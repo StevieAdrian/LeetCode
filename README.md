@@ -25,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/StevieAdrian/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +43,16 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
