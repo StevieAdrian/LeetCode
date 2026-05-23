@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StevieAdrian/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
@@ -48,10 +49,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
