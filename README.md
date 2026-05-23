@@ -25,6 +25,7 @@
 | [0007-reverse-integer](https://github.com/StevieAdrian/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/StevieAdrian/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Recursion
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Brainteaser
 |  |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
