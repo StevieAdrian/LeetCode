@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/StevieAdrian/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -82,5 +83,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
