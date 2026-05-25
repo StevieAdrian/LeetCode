@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/StevieAdrian/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
