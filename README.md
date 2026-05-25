@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/StevieAdrian/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
