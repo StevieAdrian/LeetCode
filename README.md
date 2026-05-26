@@ -17,6 +17,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/StevieAdrian/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/StevieAdrian/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/StevieAdrian/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
