@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/StevieAdrian/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0007-reverse-integer](https://github.com/StevieAdrian/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/StevieAdrian/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
