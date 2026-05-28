@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [3093-longest-common-suffix-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
+| [3093-longest-common-suffix-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/StevieAdrian/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
