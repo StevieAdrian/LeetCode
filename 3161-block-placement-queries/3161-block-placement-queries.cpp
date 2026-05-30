@@ -2,11 +2,17 @@ class Solution {
 public:
     vector<int> bt;
     void update(int x, int v) {
-        while (x < bt.size()) { bt[x] = max(bt[x], v); x += x & -x; }
+        while (x < bt.size()) { 
+            bt[x] = max(bt[x], v); 
+            x += x & -x; 
+        }
     }
     int query(int x) {
         int res = 0;
-        while (x > 0) { res = max(res, bt[x]); x -= x & -x; }
+        while (x > 0) { 
+            res = max(res, bt[x]); 
+            x -= x & -x; 
+        }
         return res;
     }
     
