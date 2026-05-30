@@ -43,6 +43,8 @@ public:
                 ans.push_back(max(x - pr, query(pr)) >= sz);
             }
         }
-        reverse(ans.begin(), ans.end()); return ans;
+        reverse(ans.begin(), ans.end()); 
+        
+        return ans;
     }
 };
