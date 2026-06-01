@@ -13,6 +13,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/StevieAdrian/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2126-destroying-asteroids](https://github.com/StevieAdrian/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/StevieAdrian/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3093-longest-common-suffix-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/StevieAdrian/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 | [2126-destroying-asteroids](https://github.com/StevieAdrian/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/StevieAdrian/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +134,5 @@
 |  |
 | ------- |
 | [2126-destroying-asteroids](https://github.com/StevieAdrian/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/StevieAdrian/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
