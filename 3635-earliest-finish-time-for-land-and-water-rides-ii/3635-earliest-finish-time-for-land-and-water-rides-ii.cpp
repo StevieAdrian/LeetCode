@@ -1,27 +1,32 @@
 class Solution {
-    int solve(vector<int>& start1, vector<int>& duration1, vector<int>& start2,
-              vector<int>& duration2) {
-        int finish1 = INT_MAX;
-        for (int i = 0; i < start1.size(); i++) {
-            finish1 = min(finish1, start1[i] + duration1[i]);
-        }
-
-        int finish2 = INT_MAX;
-        for (int i = 0; i < start2.size(); i++) {
-            finish2 = min(finish2, max(start2[i], finish1) + duration2[i]);
-        }
-        return finish2;
-    }
-
 public:
-    int earliestFinishTime(vector<int>& landStartTime,
-                           vector<int>& landDuration,
-                           vector<int>& waterStartTime,
-                           vector<int>& waterDuration) {
-        int land_water =
-            solve(landStartTime, landDuration, waterStartTime, waterDuration);
-        int water_land =
-            solve(waterStartTime, waterDuration, landStartTime, landDuration);
+    int earliestFinishTime(vector<int>& ls, vector<int>& ld, vector<int>& ws, vector<int>& wd) {
+        int l = INT_MAX;
+        for (int i = 0; i < ls.size(); i++) {
+            l = min(l, ls[i] + ld[i]);
+        }
+
+        int land_water = INT_MAX;
+        for (int i = 0; i < ws.size(); i++) {
+            land_water = min(
+                land_water,
+                max(ws[i], l) + wd[i]
+            );
+        }
+
+        int w = INT_MAX;
+        for (int i = 0; i < ws.size(); i++) {
+            w = min(w, ws[i] + wd[i]);
+        }
+
+        int water_land = INT_MAX;
+        for (int i = 0; i < ls.size(); i++) {
+            water_land = min(
+                water_land,
+                max(ls[i], w) + ld[i]
+            );
+        }
+
         return min(land_water, water_land);
     }
 };
