@@ -47,6 +47,7 @@
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/StevieAdrian/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
