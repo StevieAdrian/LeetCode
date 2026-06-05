@@ -48,6 +48,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/StevieAdrian/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Brainteaser
 |  |
 | ------- |
