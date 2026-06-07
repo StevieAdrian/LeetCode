@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/StevieAdrian/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/StevieAdrian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/StevieAdrian/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -86,6 +87,7 @@
 | [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/StevieAdrian/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/StevieAdrian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
