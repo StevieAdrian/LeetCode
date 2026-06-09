@@ -24,6 +24,7 @@ public:
         if (slow != fast || !fast || !fast->next) {
             return nullptr;
         }
+        
         slow = head;
 
         while (slow != fast){
