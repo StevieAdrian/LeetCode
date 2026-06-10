@@ -27,6 +27,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/StevieAdrian/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/StevieAdrian/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/StevieAdrian/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/StevieAdrian/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0039-combination-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
