@@ -60,6 +60,7 @@
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/StevieAdrian/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/StevieAdrian/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -194,6 +195,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/StevieAdrian/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/StevieAdrian/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/StevieAdrian/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
