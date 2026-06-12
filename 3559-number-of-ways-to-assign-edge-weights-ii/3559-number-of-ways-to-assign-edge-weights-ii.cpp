@@ -19,6 +19,7 @@ public:
             }
         }
     }
+    
     void dfs(int x, int fa) {
         f[x][0] = fa;
         for (auto& y : e[x]) {
@@ -74,8 +75,7 @@ auto init = [] {
 
 class Solution {
 public:
-    vector<int> assignEdgeWeights(vector<vector<int>>& edges,
-                                  vector<vector<int>>& queries) {
+    vector<int> assignEdgeWeights(vector<vector<int>>& edges, vector<vector<int>>& queries) {
         LCA lca(edges, 1);
         int m = queries.size();
         vector<int> res(m);
