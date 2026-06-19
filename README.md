@@ -16,6 +16,7 @@
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/StevieAdrian/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1732-find-the-highest-altitude](https://github.com/StevieAdrian/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2126-destroying-asteroids](https://github.com/StevieAdrian/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/StevieAdrian/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/StevieAdrian/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -206,6 +207,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/StevieAdrian/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/StevieAdrian/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
