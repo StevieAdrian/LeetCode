@@ -73,6 +73,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/StevieAdrian/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/StevieAdrian/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Recursion
@@ -124,6 +125,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/StevieAdrian/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/StevieAdrian/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Brainteaser
