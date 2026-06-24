@@ -1,6 +1,6 @@
 class Solution {
 private:
-    // i gave up, i copied these answer
+    // i give up, i copied these answer
     static constexpr long long MOD = 1'000'000'007;
     using Matrix = vector<vector<long long>>;
 
