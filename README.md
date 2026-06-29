@@ -20,6 +20,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/StevieAdrian/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/StevieAdrian/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/StevieAdrian/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/StevieAdrian/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/StevieAdrian/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/StevieAdrian/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/StevieAdrian/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -95,6 +96,7 @@
 | [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/StevieAdrian/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3093-longest-common-suffix-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/StevieAdrian/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
