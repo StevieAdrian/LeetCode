@@ -47,6 +47,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/StevieAdrian/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/StevieAdrian/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/StevieAdrian/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/StevieAdrian/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/StevieAdrian/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -96,6 +97,7 @@
 | [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/StevieAdrian/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/StevieAdrian/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3093-longest-common-suffix-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/StevieAdrian/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -108,6 +110,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StevieAdrian/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/StevieAdrian/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
