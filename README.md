@@ -16,6 +16,7 @@
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/StevieAdrian/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1288-remove-covered-intervals](https://github.com/StevieAdrian/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/StevieAdrian/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/StevieAdrian/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -193,6 +194,7 @@
 | ------- |
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
+| [1288-remove-covered-intervals](https://github.com/StevieAdrian/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/StevieAdrian/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/StevieAdrian/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/StevieAdrian/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
