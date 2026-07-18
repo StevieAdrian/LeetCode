@@ -35,6 +35,7 @@
 | [3161-block-placement-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/StevieAdrian/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/StevieAdrian/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/StevieAdrian/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/StevieAdrian/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -63,6 +64,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/StevieAdrian/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/StevieAdrian/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/StevieAdrian/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -90,6 +92,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/StevieAdrian/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/StevieAdrian/LeetCode/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/StevieAdrian/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/StevieAdrian/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/StevieAdrian/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -181,6 +184,7 @@
 | [0875-koko-eating-bananas](https://github.com/StevieAdrian/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/StevieAdrian/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/StevieAdrian/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/StevieAdrian/LeetCode/tree/master/3620-network-recovery-pathways) |
@@ -264,6 +268,7 @@
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/StevieAdrian/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
 | ------- |
@@ -275,6 +280,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/StevieAdrian/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/StevieAdrian/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/StevieAdrian/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -357,7 +363,12 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/StevieAdrian/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/StevieAdrian/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/StevieAdrian/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
