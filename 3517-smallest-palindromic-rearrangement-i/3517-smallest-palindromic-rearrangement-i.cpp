@@ -1,6 +1,17 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
+        // int len = s.length();
+        // int partition = len / 2;
+
+        // sort(s.begin(), s.begin() + partition);
+        // cout << s << endl;
+
+        // for (int i = 0; i < partition; ++i) {
+        //     s[len - 1 - i] = s[i];
+        // }
+
+        // return s;
         string ans;
         unordered_map<char, int> ctr;
 
