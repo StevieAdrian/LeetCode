@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StevieAdrian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -96,6 +97,7 @@
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/StevieAdrian/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/StevieAdrian/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -175,6 +178,7 @@
 | [0053-maximum-subarray](https://github.com/StevieAdrian/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StevieAdrian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/StevieAdrian/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -409,4 +413,8 @@
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
