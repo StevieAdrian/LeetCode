@@ -18,6 +18,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/StevieAdrian/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/StevieAdrian/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/StevieAdrian/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -99,6 +100,7 @@
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/StevieAdrian/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/StevieAdrian/LeetCode/tree/master/1840-maximum-building-height) |
@@ -179,6 +181,7 @@
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StevieAdrian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/StevieAdrian/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -417,4 +420,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
