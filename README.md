@@ -19,6 +19,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/StevieAdrian/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/StevieAdrian/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/StevieAdrian/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/StevieAdrian/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +105,7 @@
 | [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/StevieAdrian/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/StevieAdrian/LeetCode/tree/master/1406-stone-game-iii) |
@@ -191,6 +193,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StevieAdrian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/StevieAdrian/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/StevieAdrian/LeetCode/tree/master/1406-stone-game-iii) |
@@ -333,6 +336,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/StevieAdrian/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/StevieAdrian/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -441,15 +445,18 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/StevieAdrian/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/StevieAdrian/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/StevieAdrian/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/StevieAdrian/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
