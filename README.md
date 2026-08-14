@@ -39,6 +39,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/StevieAdrian/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/StevieAdrian/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/StevieAdrian/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/StevieAdrian/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/StevieAdrian/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -261,6 +262,7 @@
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/StevieAdrian/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/StevieAdrian/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/StevieAdrian/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
@@ -347,6 +349,7 @@
 | [1140-stone-game-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/StevieAdrian/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/StevieAdrian/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/StevieAdrian/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/StevieAdrian/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/StevieAdrian/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
