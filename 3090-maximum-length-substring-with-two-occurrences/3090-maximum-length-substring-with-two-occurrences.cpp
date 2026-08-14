@@ -9,20 +9,15 @@ public:
 
         while (l <= r) {
             int temp = l + 1;
-            // count = 0;
             mapp.clear(); 
-            // cout << dbg << " s: " << s[dbg] << endl;
 
             for (int i = l; i < temp; i++) {
-                // cout << "l: " << l << " temp: " << temp << endl;
                 mapp[s[i]]++;
                 if (mapp[s[i]] > 2 || temp > s.size()) {
                     break;
                 }
 
                 count++;
-                // cout << "l: " << l << " temp: " << temp << " count: " << count << endl;
-                // cout << count << endl;
                 temp++;
             }
 
@@ -30,7 +25,6 @@ public:
             count = 0;
             dbg++;
             l++;
-            // r--;
         }
         
         return maxx;
