@@ -1,15 +1,13 @@
 class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
-        if (k == nums.size()) {
-            return *max_element(nums.begin(), nums.end());
-        }
-
         unordered_map<int, int> mp;
-
+        int maxx = INT_MIN;
+        
         for (int i = 0; i + k <= nums.size(); i++) {
             for (int j = i; j < i+k; j++) {
                 mp[nums[j]]++;
+                maxx = max(maxx, nums[j]);
             }
         }
         
@@ -19,6 +17,10 @@ public:
             if (p.second == 1) {
                 ans = max(ans, p.first);
             }
+        }
+
+        if (k == nums.size()) {
+            return maxx;
         }
 
         return ans;
