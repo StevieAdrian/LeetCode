@@ -6,19 +6,11 @@ public:
         }
 
         unordered_map<int, int> mp;
-        // unordered_map<int, int> count;
-        int maxx = -1;
 
         for (int i = 0; i + k <= nums.size(); i++) {
-            // mp.clear();
             for (int j = i; j < i+k; j++) {
                 mp[nums[j]]++;
-                maxx = max(maxx, nums[j]);
             }
-
-            // for (auto p: mp) {
-            //     count[p.first]++;
-            // }
         }
         
         int ans = -1;
