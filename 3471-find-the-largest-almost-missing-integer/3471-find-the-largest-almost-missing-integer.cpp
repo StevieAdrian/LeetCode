@@ -6,22 +6,24 @@ public:
         }
 
         unordered_map<int, int> mp;
-        unordered_map<int, int> count;
+        // unordered_map<int, int> count;
+        int maxx = -1;
 
         for (int i = 0; i + k <= nums.size(); i++) {
-            mp.clear();
+            // mp.clear();
             for (int j = i; j < i+k; j++) {
                 mp[nums[j]]++;
+                maxx = max(maxx, nums[j]);
             }
 
-            for (auto p: mp) {
-                count[p.first]++;
-            }
+            // for (auto p: mp) {
+            //     count[p.first]++;
+            // }
         }
         
         int ans = -1;
-        for (auto p: count) {
-            cout << p.second << endl;
+        for (auto p: mp) {
+            // cout << p.second << endl;
             if (p.second == 1) {
                 ans = max(ans, p.first);
             }
