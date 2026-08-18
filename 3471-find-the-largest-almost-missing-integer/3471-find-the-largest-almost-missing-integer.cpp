@@ -12,7 +12,7 @@ public:
         }
         
         int ans = -1;
-        for (auto &p: mp) {
+        for (const auto &p: mp) {
             // cout << p.second << endl;
             if (p.second == 1) {
                 ans = max(ans, p.first);
