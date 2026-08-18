@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/StevieAdrian/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/StevieAdrian/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/StevieAdrian/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@
 | [0007-reverse-integer](https://github.com/StevieAdrian/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/StevieAdrian/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/StevieAdrian/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/StevieAdrian/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
@@ -265,6 +267,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/StevieAdrian/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/StevieAdrian/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/StevieAdrian/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
