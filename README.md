@@ -381,6 +381,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/StevieAdrian/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/StevieAdrian/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -389,12 +390,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/StevieAdrian/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/StevieAdrian/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/StevieAdrian/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -404,6 +407,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/StevieAdrian/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/StevieAdrian/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
