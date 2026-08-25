@@ -1,9 +1,8 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        vector<int> hs(nums.begin(), nums.end());
         int temp = k;
-        while(find(hs.begin(), hs.end(), temp) != hs.end()) {
+        while(find(nums.begin(), nums.end(), temp) != nums.end()) {
             temp += k;
         }
 
