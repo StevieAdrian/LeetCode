@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StevieAdrian/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/StevieAdrian/LeetCode/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/StevieAdrian/LeetCode/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -77,6 +78,7 @@
 | [0141-linked-list-cycle](https://github.com/StevieAdrian/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/StevieAdrian/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/StevieAdrian/LeetCode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/StevieAdrian/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/StevieAdrian/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/StevieAdrian/LeetCode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/StevieAdrian/LeetCode/tree/master/1288-remove-covered-intervals) |
