@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/StevieAdrian/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/StevieAdrian/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/StevieAdrian/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/StevieAdrian/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/StevieAdrian/LeetCode/tree/master/0066-plus-one) |
@@ -76,6 +77,7 @@
 | [0001-two-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StevieAdrian/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/StevieAdrian/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/StevieAdrian/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/StevieAdrian/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/StevieAdrian/LeetCode/tree/master/0202-happy-number) |
@@ -167,6 +169,7 @@
 | [0005-longest-palindromic-substring](https://github.com/StevieAdrian/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/StevieAdrian/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/StevieAdrian/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/StevieAdrian/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -295,6 +298,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/StevieAdrian/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/StevieAdrian/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/StevieAdrian/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/StevieAdrian/LeetCode/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
