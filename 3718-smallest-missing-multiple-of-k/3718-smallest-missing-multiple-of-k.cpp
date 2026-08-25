@@ -1,9 +1,9 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int> hs(nums.begin(), nums.end());
+        vector<int> hs(nums.begin(), nums.end());
         int temp = k;
-        while(hs.contains(temp)) {
+        while(find(hs.begin(), hs.end(), temp) != hs.end()) {
             temp += k;
         }
 
