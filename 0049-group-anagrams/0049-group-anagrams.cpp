@@ -12,7 +12,7 @@ public:
 
         vector<vector<string>> res;
 
-        for (auto p: mp) {
+        for (const auto& p: mp) {
             res.push_back(p.second);
         }
         
