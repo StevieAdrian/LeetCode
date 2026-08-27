@@ -1,7 +1,6 @@
 class Solution {
 public:
-    bool permutate(string& s, string& curr, vector<bool>& used,
-                   string& target, string& ans, int cmp) {
+    bool permutate(string& s, string& curr, vector<bool>& used, string& target, string& ans, int cmp) {
 
         if (curr.length() == s.length()) {
             if (cmp > 0) {
@@ -16,8 +15,7 @@ public:
         for (int i = 0; i < s.length(); i++) {
             if (used[i]) continue;
 
-            if (i > 0 && s[i] == s[i - 1] && !used[i - 1])
-                continue;
+            if (i > 0 && s[i] == s[i - 1] && !used[i - 1]) continue;
 
             int newCmp = cmp;
 
@@ -28,9 +26,9 @@ public:
                     newCmp = 1;
             }
 
-            // Kalau sudah lebih kecil, branch ini pasti gagal
-            if (newCmp < 0)
+            if (newCmp < 0) {
                 continue;
+            }
 
             used[i] = true;
             curr += s[i];
