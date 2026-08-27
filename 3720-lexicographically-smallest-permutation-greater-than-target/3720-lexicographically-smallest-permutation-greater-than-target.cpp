@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool permutate(string& s, string& curr, vector<bool>& used, string& target, string& ans, int cmp) {
-
         if (curr.length() == s.length()) {
             if (cmp > 0) {
                 ans = curr;
@@ -18,12 +17,12 @@ public:
             if (i > 0 && s[i] == s[i - 1] && !used[i - 1]) continue;
 
             int newCmp = cmp;
-
             if (cmp == 0) {
-                if (s[i] < target[pos])
+                if (s[i] < target[pos]) {
                     newCmp = -1;
-                else if (s[i] > target[pos])
+                } else if (s[i] > target[pos]) {
                     newCmp = 1;
+                }
             }
 
             if (newCmp < 0) {
@@ -33,8 +32,9 @@ public:
             used[i] = true;
             curr += s[i];
 
-            if (permutate(s, curr, used, target, ans, newCmp))
+            if (permutate(s, curr, used, target, ans, newCmp)) {
                 return true;
+            }
 
             curr.pop_back();
             used[i] = false;
