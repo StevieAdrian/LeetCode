@@ -22,15 +22,26 @@ public:
         int minn = INT_MAX;
         int maxx = -1;
         vector<int> nodess;
+        int first = -1;
+        int prev = i;
 
         while (head->next != nullptr) {
-            if (head->val > slow->val && head->val > fast->val) {
+            if (head->val > slow->val && head->val > fast->val || head->val < slow->val && head->val < fast->val) {
                 nodess.push_back(i);
+                if (first == -1) {
+                    first = i;
+                    prev = i;
+                } else {
+                    minn = min(minn, i - prev);
+                    prev = i;
+                }
             } 
             
-            if (head->val < slow->val && head->val < fast->val) {
-                nodess.push_back(i);
-            }
+            // if (head->val < slow->val && head->val < fast->val) {
+            //     if (first == -1) {
+            //         first = i;
+            //     }
+            // }
 
             slow = slow->next;
             head = head->next;
@@ -42,11 +53,12 @@ public:
             return {-1, -1};
         }
 
-        for (int i = 1; i < nodess.size(); i++) {
-            minn = min(minn, nodess[i] - nodess[i-1]);
-        }
+        // for (int i = 1; i < nodess.size(); i++) {
+        //     minn = min(minn, nodess[i] - nodess[i-1]);
+        // }
 
-        maxx = nodess[nodess.size() - 1] - nodess[0];
+        // maxx = nodess[nodess.size() - 1] - nodess[0];
+        maxx = prev - first;
     
         return {minn, maxx};
     }
