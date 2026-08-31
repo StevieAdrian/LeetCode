@@ -38,10 +38,6 @@ public:
             i++;
         }   
 
-        for (auto p: nodess) {
-            cout << p << endl;
-        }
-
         if (nodess.size() < 2) {
             return {-1, -1};
         }
