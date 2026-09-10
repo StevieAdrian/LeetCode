@@ -441,6 +441,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/StevieAdrian/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/StevieAdrian/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/StevieAdrian/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -455,6 +456,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0226-invert-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/StevieAdrian/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/StevieAdrian/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -466,6 +468,7 @@
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0226-invert-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/StevieAdrian/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/StevieAdrian/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/StevieAdrian/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/StevieAdrian/LeetCode/tree/master/3310-remove-methods-from-project) |
