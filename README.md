@@ -100,6 +100,7 @@
 | [0217-contains-duplicate](https://github.com/StevieAdrian/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/StevieAdrian/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/StevieAdrian/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/StevieAdrian/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/StevieAdrian/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -211,6 +212,7 @@
 | [0242-valid-anagram](https://github.com/StevieAdrian/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/StevieAdrian/LeetCode/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/StevieAdrian/LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/StevieAdrian/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/StevieAdrian/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -363,6 +365,7 @@
 | [0347-top-k-frequent-elements](https://github.com/StevieAdrian/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/StevieAdrian/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/StevieAdrian/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/StevieAdrian/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/StevieAdrian/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/StevieAdrian/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -389,6 +392,7 @@
 | [0020-valid-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/StevieAdrian/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
@@ -519,6 +523,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/StevieAdrian/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/StevieAdrian/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/StevieAdrian/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/StevieAdrian/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -529,6 +534,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/StevieAdrian/LeetCode/tree/master/0039-combination-sum) |
+| [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/StevieAdrian/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
