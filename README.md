@@ -216,6 +216,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/StevieAdrian/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/StevieAdrian/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/StevieAdrian/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/StevieAdrian/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/StevieAdrian/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -396,6 +397,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/StevieAdrian/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/StevieAdrian/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/StevieAdrian/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Trie
 |  |
@@ -653,4 +655,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/StevieAdrian/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/StevieAdrian/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/StevieAdrian/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
